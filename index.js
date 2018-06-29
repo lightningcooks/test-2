@@ -24,7 +24,7 @@ function timeOut() {
             'Connection': 'keep-alive'
         }
         let opts = {
-            url: `http://www.supremenewyork.com/shop/jackets/mxltus8bd/y2pstv0yb.json`,
+            url: `${productUrl}`,
             headers: headers,
             gzip: true
         }
