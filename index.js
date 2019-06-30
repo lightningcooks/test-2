@@ -24,7 +24,7 @@ function timeOut() {
             'Connection': 'keep-alive'
         }
         let opts = {
-            url: `${productUrl}.json`,
+            url: `${config.productUrl}.json`,
             headers: headers,
             gzip: true
         }
