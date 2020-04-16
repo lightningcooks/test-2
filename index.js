@@ -3,7 +3,7 @@ const request = require('request')
 
 /* Config */
 let config = {
-    "webhook": "https://discordapp.com/api",
+    "webhook": "https://discordapp.com/api/webhooks/700208781971423324/V_Utl083y3_Pntscy307ACnUJupz_SZvvG08mvhPTysVoiRP8bvGIeM-ZIkqYFZLQSwX/github",
     "delay": 3000, /* In Miliseconds */
     "productUrl": "https://supremenewyork.com/shop/product/here"
 }
